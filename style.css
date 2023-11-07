@@ -1,0 +1,16 @@
+#shape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: red;
+    color: white;
+
+    height: 150px;
+    width: 150px;
+    border-radius: 300px;
+}
+
+#shape.hide {
+    display: none;
+}
